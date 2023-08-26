@@ -1,7 +1,7 @@
-[![MasterHead](https://ibb.co/BzCYDVG)]
+[![MasterHead](https://www.freepik.com/free-vector/gamer-playing-with-computer_4911346.htm#query=sittting%20programmer%20illustration%20gif&position=29&from_view=search&track=ais)]
 <h1 align="center">Hi 👋, I'm Hasan Al Banna</h1>
 <h3 align="center">A passionate Full Stack Software Developer</h3>
-<img align="right" src="https://ibb.co/fMMzHB9" width="400" alt="coding"/>
+<img align="right" src="https://www.freepik.com/free-vector/vector-illustration-teenager-sitting-laptop_1215593.htm#query=sittting%20programmer%20illustration&position=25&from_view=search&track=ais" width="400" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-al-banna-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-al-banna-nahid" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-afe54.firebaseapp.com/](https://portfolio-afe54.firebaseapp.com/)
