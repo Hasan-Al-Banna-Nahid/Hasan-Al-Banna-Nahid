@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-vector/gamer-playing-with-computer_52683-15038.jpg?w=740&t=st=1693058500~exp=1693059100~hmac=f16c747d970beca644b53bf68dcb20d1a6d77015a5147bd0c5f0a4bd835962f4)]
+[![MasterHead](https://ibb.co/7nYjwGq)]
 <h1 align="center">Hi 👋, I'm Hasan Al Banna</h1>
 <h3 align="center">A passionate Full Stack Software Developer</h3>
-<img align="right" src="https://img.freepik.com/free-vector/vector-illustration-teenager-sitting-laptop_1441-57.jpg?w=740&t=st=1693058611~exp=1693059211~hmac=9d37a425ac95907f8439f05a5be2e590e65b1c9538bae749c29ef3e8746d3723" width="400" alt="coding"/>
+<img align="right" src="[https://img.freepik.com/free-vector/vector-illustration-teenager-sitting-laptop_1441-57.jpg?w=740&t=st=1693058611~exp=1693059211~hmac=9d37a425ac95907f8439f05a5be2e590e65b1c9538bae749c29ef3e8746d3723](https://lottie.host/embed/076116be-de51-44aa-8eb0-4ac1ad4c786a/vzYJAUqYpo.json)" width="400" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan-al-banna-nahid&label=Profile%20views&color=0e75b6&style=flat" alt="hasan-al-banna-nahid" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-afe54.firebaseapp.com/](https://portfolio-afe54.firebaseapp.com/)
