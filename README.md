@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-al-banna-nahid" alt="hasan-al-banna-nahid" /></a> </p>
 
-- 🔭 I’m currently working on [Red-Rose Ed-Tech](https://github.com/Hasan-Al-Banna-Nahid/Red-Rose)
+- 🔭 I’m currently working on [https://Driotion.com]
 
-- 🌱 I’m currently learning **PostgreSQL,Prisma ORM,Mongoose**
+- 🌱 I’m currently learning **PostgreSQL,Prisma ORM,Mongoose,TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-afe54.firebaseapp.com/](https://portfolio-afe54.firebaseapp.com/)
 
