@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasan-al-banna-nahid" alt="hasan-al-banna-nahid" /></a> </p>
 
-- 🔭 I’m currently working on [https://Driotion.com]
+- 🔭 I’m currently working on [https://pi-commerce-plum.vercel.app/]
 
-- 🌱 I’m currently learning **PostgreSQL,Prisma ORM,Mongoose,TypeScript**
+- 🌱 I’m currently learning **PostgreSQL,Prisma ORM,Mongoose,TypeScript,Devops**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-afe54.firebaseapp.com/](https://portfolio-afe54.firebaseapp.com/)
+- 👨‍💻 All of my projects are available at [https://nahid-portfolio-mu.vercel.app/]
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **IamNahid591998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xmMUFSyljVxwPei_Bt60ReflaAEbur38/view?usp=sharing](https://drive.google.com/file/d/1xmMUFSyljVxwPei_Bt60ReflaAEbur38/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1WGvfCm8rSX2W3BWSD0XhBtbQIZ82pdW7CyT64WoC5qw/edit?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
